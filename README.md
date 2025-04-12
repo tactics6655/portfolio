@@ -59,3 +59,11 @@ XE 보안 취약점 보고 (닉네임 kdps)
 ======
 
 
+![Alt text](https://github.com/tactics6655/portfolio/blob/main/score.png)
+
+작곡
+======
+
+
+[음악 듣기](https://github.com/tactics6655/portfolio/blob/main/s1.mp3)
+[음악 듣기](https://github.com/tactics6655/portfolio/blob/main/s2.mp3)
