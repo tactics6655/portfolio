@@ -18,6 +18,12 @@ PHP 프레임워크
 프레임워크/라이브러리 없이 자체 제작
 ```
 
-기술 : PHP, React, React-router, Webpack/Vite, Docker, Postgres/MariaDb, Verdaccio (내부 저장소), Redis, Memcached, 등
+기술 : PHP, React, React-router, Webpack/Vite, Docker, Postgres/MariaDb, Verdaccio (내부 저장소), Redis, Memcached, Typescript, 등
 
-기능 : Active Record, Annotation 기반 Router, DependencyInjection, 
+기능 : Active Record, Annotation 기반 Router, DependencyInjection, 등
+
+![Alt text](https://github.com/tactics6655/portfolio/blob/main/wrap_functions.png)
+
+```설명
+래핑된 자바스크립트 컴포넌트로 기능을 쉽게 붙일 수 있음
+```
