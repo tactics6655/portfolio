@@ -38,7 +38,7 @@ PHP 프레임워크
 기능 : 코드 입력, 리하모니제이션 (코드의 상관관계를 분석하여 코드 진행을 고급스럽게 변경해줌), 코드 자동 반주 (5개의 스타일 내장)
 
 ```설명
-미국 개발자 커뮤니티 PlanetSourceCode 대회 우
+미국 개발자 커뮤니티 PlanetSourceCode 대회에서 Superior Code 수상
 
 https://vb6awards.blogspot.com/2014/01/superior-code-awards-for-advanced-vb6_5090.html?m=1
 ```
