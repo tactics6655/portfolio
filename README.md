@@ -37,6 +37,12 @@ PHP 프레임워크
 
 기능 : 코드 입력, 리하모니제이션 (코드의 상관관계를 분석하여 코드 진행을 고급스럽게 변경해줌), 코드 자동 반주 (5개의 스타일 내장)
 
+```설명
+미국 개발자 커뮤니티 PlanetSourceCode 대회 우
+
+https://vb6awards.blogspot.com/2014/01/superior-code-awards-for-advanced-vb6_5090.html?m=1
+```
+
 ![Alt text](https://github.com/tactics6655/portfolio/blob/main/exuscms.png)
 
 PHP Content Manager System
@@ -45,3 +51,11 @@ PHP Content Manager System
 기술 : PHP, Webpack
 
 기능 : XE처럼 모듈 기반으로 기능 확장 가능, 게시판, 관리자 화면
+
+
+![Alt text](https://github.com/tactics6655/portfolio/blob/main/report.png)
+
+XE 보안 취약점 보고 (닉네임 kdps)
+======
+
+
